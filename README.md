@@ -185,11 +185,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Life%20can%20be%20the%20scariest%20and%20most%20beautiful%20thing%20simultaneously.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Help%20others%20for%20all%20the%20times%20that%20you%20have%20been%20ignored.%20Be%20kind%20to%20others%2C%20for%20all%20the%20times%20that%20you%20have%20been%20scorned.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
