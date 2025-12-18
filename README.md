@@ -16,6 +16,7 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌐 Building [Percify](https://percify.io) , [SeoScale](https://seoscale.io)
 - 💁‍♂️ Trusted member and Moderator at [Once UI](https://once-ui.com)
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://ceo.pronexus.in) for more details about me.
