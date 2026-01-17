@@ -221,11 +221,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Our%20greatest%20glory%20is%20not%20in%20never%20falling%20but%20in%20rising%20every%20time%20we%20fall.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=Today%20you%20are%20you%2C%20that%20is%20truer%20than%20true.%20There%20is%20no%20one%20alive%20who%20is%20you-er%20than%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
