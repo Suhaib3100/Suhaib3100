@@ -223,11 +223,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=You%20are%20what%20you%20believe%20in.%20You%20become%20that%20which%20you%20believe%20you%20can%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=You%20will%20not%20do%20incredible%20things%20without%20an%20incredible%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
