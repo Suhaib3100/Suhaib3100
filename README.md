@@ -16,15 +16,29 @@ Building in the world of early-stage startups. Full Stack Developer with experti
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🛠️ Tech Stack
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img alt="Tech Stack" src="./Skills_Animation_White.gif" width="380">
+  <img alt="Tech Stack" src="./Skills_Animation_White.gif" width="100%">
 </picture>
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Suhaib3100&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=c56a90&icon_color=ffeb95&text_color=ffffff" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Suhaib3100&theme=nightowl&hide_border=true&background=0d1117&fire=ffeb95&ring=c56a90&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c56a90&sideLabels=c56a90&dates=888888" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <a href="mailto:suhaibking310@gmail.com"><img src="./gmail.png" width=35 height=35 alt="Email" /></a>&nbsp;
 <a href="https://x.com/Suhaib_King"><img src="./twitter.png" width=35 height=35 alt="Twitter" /></a>&nbsp;
