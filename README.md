@@ -17,11 +17,15 @@ Building in the world of early-stage startups. Full Stack Developer with experti
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🛠️ Tech Stack
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Suhaib3100&theme=nightowl&hide_border=true&background=0d1117&fire=ffeb95&ring=c56a90&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c56a90&sideLabels=c56a90&dates=888888" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -29,26 +33,28 @@ Building in the world of early-stage startups. Full Stack Developer with experti
 </picture>
 
 </td>
-<td width="50%" valign="top">
-
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Suhaib3100&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=c56a90&icon_color=ffeb95&text_color=ffffff" width="100%" />
-
-### ⏱️ Coding Activity
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=suhaib3100&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=c56a90&text_color=ffffff&langs_count=6&range=all_time" width="100%" />
-
-</td>
 </tr>
 </table>
 
 <div align="center">
 
-<a href="mailto:suhaibking310@gmail.com"><img src="./gmail.png" width=35 height=35 alt="Email" /></a>&nbsp;
-<a href="https://x.com/Suhaib_King"><img src="./twitter.png" width=35 height=35 alt="Twitter" /></a>&nbsp;
-<a href="https://www.instagram.com/suhaib_s_z"><img src="./instagram.png" width=35 height=35 alt="Instagram" /></a>&nbsp;
-<a href="https://www.github.com/Suhaib3100"><img src="./github.png" width=35 height=35 alt="GitHub" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/suhaib-sz"><img src="./linkedin.png" width=35 height=35 alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://buymeacoffee.com/suhaibking7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30"></a>
+![TypeScript](https://img.shields.io/badge/TypeScript-153%20hrs-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-81%20hrs-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-6%20hrs-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-17%20hrs-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="mailto:suhaibking310@gmail.com"><img src="./gmail.png" width=40 height=40 alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://x.com/Suhaib_King"><img src="./twitter.png" width=40 height=40 alt="Twitter" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/suhaib_s_z"><img src="./instagram.png" width=40 height=40 alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="https://www.github.com/Suhaib3100"><img src="./github.png" width=40 height=40 alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/suhaib-sz"><img src="./linkedin.png" width=40 height=40 alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://buymeacoffee.com/suhaibking7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
 
 </div>
 
