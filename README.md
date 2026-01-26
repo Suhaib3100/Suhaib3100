@@ -1,4 +1,3 @@
-![Suhaib's Banner Image](./banner_fresh.png)
 
 <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
