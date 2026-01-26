@@ -11,6 +11,7 @@ Building in the world of early-stage startups. Full Stack Developer with experti
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ceo.pronexus.in-c56a90?style=for-the-badge)](https://ceo.pronexus.in)
 [![Profile Views](https://komarev.com/ghpvc/?username=Suhaib3100&label=Views&color=770677&style=for-the-badge)](https://github.com/Suhaib3100)
+[![wakatime](https://wakatime.com/badge/user/93c97a9c-01c5-4ae2-a9c1-9e426ef208fc.svg?style=for-the-badge)](https://wakatime.com/@93c97a9c-01c5-4ae2-a9c1-9e426ef208fc)
 
 <br clear="both"/>
 
@@ -31,8 +32,10 @@ Building in the world of early-stage startups. Full Stack Developer with experti
 <td width="50%" valign="top">
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Suhaib3100&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=c56a90&icon_color=ffeb95&text_color=ffffff" width="100%" />
-<img src="https://streak-stats.demolab.com?user=Suhaib3100&theme=nightowl&hide_border=true&background=0d1117&fire=ffeb95&ring=c56a90&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c56a90&sideLabels=c56a90&dates=888888" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Suhaib3100&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=c56a90&icon_color=ffeb95&text_color=ffffff" width="100%" />
+
+### ⏱️ Coding Activity
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=suhaib3100&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=c56a90&text_color=ffffff&langs_count=6&range=all_time" width="100%" />
 
 </td>
 </tr>
