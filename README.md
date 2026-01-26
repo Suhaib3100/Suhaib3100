@@ -18,11 +18,11 @@ Building in the world of early-stage startups. Full Stack Developer with experti
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Suhaib3100&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=c56a90&icon_color=ffeb95&text_color=ffffff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Suhaib3100&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=c56a90&icon_color=ffeb95&text_color=ffffff" width="49%" height="200" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img alt="Tech Stack" src="./Skills_Animation_White.gif" width="49%">
+  <img alt="Tech Stack" src="./Skills_Animation_White.gif" width="49%" height="200">
 </picture>
 </div>
 
