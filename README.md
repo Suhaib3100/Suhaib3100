@@ -44,8 +44,6 @@ Building in the world of early-stage startups. Full Stack Developer with experti
 <a href="https://www.instagram.com/suhaib_s_z"><img src="./instagram.png" width=40 height=40 alt="Instagram" /></a>&nbsp;&nbsp;
 <a href="https://www.github.com/Suhaib3100"><img src="./github.png" width=40 height=40 alt="GitHub" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/suhaib-sz"><img src="./linkedin.png" width=40 height=40 alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://buymeacoffee.com/suhaibking7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
-
 </div>
 
 <p align="center">
