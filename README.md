@@ -17,24 +17,14 @@ Building in the world of early-stage startups. Full Stack Developer with experti
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Suhaib3100&theme=nightowl&hide_border=true&background=0d1117&fire=ffeb95&ring=c56a90&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c56a90&sideLabels=c56a90&dates=888888" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Suhaib3100&theme=nightowl&hide_border=true&background=0d1117&fire=ffeb95&ring=c56a90&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c56a90&sideLabels=c56a90&dates=888888" width="49%" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img alt="Tech Stack" src="./Skills_Animation_White.gif" width="100%">
+  <img alt="Tech Stack" src="./Skills_Animation_White.gif" width="49%">
 </picture>
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
