@@ -1,12 +1,18 @@
-
 <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Suhaib! 
-**Entrepreneur · Full Stack Engineer · AI Engineer**
+**SDE @ [Tsenta](https://tsenta.com) · Full Stack & Systems Engineer**
 
-Building in the world of early-stage startups. Full Stack Developer with expertise in **Next.js, React, Node.js, Express & Python**. AI Engineer experienced in **Gaussian Splatting, ComfyUI & AI workflows**.
+Building and operating **high-scale production systems** at **[Tsenta](https://tsenta.com)**. Previously built and shipped products like **[Percify](https://percify.io), SeoScale & other early-stage platforms**.
 
-🚀 Building [Percify](https://percify.io) & [SeoScale](https://seoscale.io) · 💁‍♂️ Moderator at [Once UI](https://once-ui.com) · ❤ Open Source
+Focused on execution, performance, and scalability across **web, mobile, and distributed systems**.
+
+⚡ **Core Stack:** Next.js, React, React Native, Electron  
+⚙️ **Backend & Systems:** Node.js, Express, Python, PostgreSQL, Redis, Queue Systems, Realtime Architectures  
+🏗️ **Specialization:** Scalable backend systems, infra design, API architecture, handling high-throughput workloads  
+🧠 **AI Systems:** Gaussian Splatting, ComfyUI, applied AI workflows  
+
+💁‍♂️ Ex-Moderator at **Once UI** · ❤ Open Source
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ceo.pronexus.in-c56a90?style=for-the-badge)](https://ceo.pronexus.in)
 [![Profile Views](https://komarev.com/ghpvc/?username=Suhaib3100&label=Views&color=770677&style=for-the-badge)](https://github.com/Suhaib3100)
@@ -15,15 +21,6 @@ Building in the world of early-stage startups. Full Stack Developer with experti
 <br clear="both"/>
 
 ---
-
-<!-- <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Suhaib3100&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=c56a90&icon_color=ffeb95&text_color=ffffff" width="49%" height="200" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img alt="Tech Stack" src="./Skills_Animation_White.gif" width="49%" height="200">
-</picture>
-</div> -->
 
 <div align="center">
 
@@ -43,6 +40,7 @@ Building in the world of early-stage startups. Full Stack Developer with experti
 <a href="https://www.instagram.com/suhaib_s_z"><img src="./instagram.png" width=40 height=40 alt="Instagram" /></a>&nbsp;&nbsp;
 <a href="https://www.github.com/Suhaib3100"><img src="./github.png" width=40 height=40 alt="GitHub" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/suhaib-sz"><img src="./linkedin.png" width=40 height=40 alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+
 </div>
 
 <p align="center">
