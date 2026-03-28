@@ -14,7 +14,7 @@ Focused on execution, performance, and scalability across **web, mobile, and dis
 
 💁‍♂️ Ex-Moderator at **Once UI** · ❤ Open Source
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ceo.pronexus.in-c56a90?style=for-the-badge)](https://ceo.pronexus.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-suhaib.tech-c56a90?style=for-the-badge)](https://suhaib.tech)
 [![Profile Views](https://komarev.com/ghpvc/?username=Suhaib3100&label=Views&color=770677&style=for-the-badge)](https://github.com/Suhaib3100)
 [![wakatime](https://wakatime.com/badge/user/93c97a9c-01c5-4ae2-a9c1-9e426ef208fc.svg?style=for-the-badge)](https://wakatime.com/@93c97a9c-01c5-4ae2-a9c1-9e426ef208fc)
 
